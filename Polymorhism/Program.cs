@@ -16,6 +16,7 @@ protected uni_member(string name, string id)
 	Name = name;
 	memberid = id;
 }
+
 public class UniversityRegistry
 {
 	private List<uni_member> members = new List<uni_member>();
